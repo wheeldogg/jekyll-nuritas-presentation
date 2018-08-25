@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T17:25:17+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Notes</title><link href="http://localhost:4000/0000/01/07/notes.md" rel="alternate" type="text/html" title="Notes" /><published>0000-01-07T00:00:00+01:00</published><updated>0000-01-07T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/07/notes</id><content type="html" xml:base="http://localhost:4000/0000/01/07/notes.md"># A hidden treasure
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T22:43:44+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Notes</title><link href="http://localhost:4000/0000/01/07/notes.md" rel="alternate" type="text/html" title="Notes" /><published>0000-01-07T00:00:00+01:00</published><updated>0000-01-07T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/07/notes</id><content type="html" xml:base="http://localhost:4000/0000/01/07/notes.md"># A hidden treasure
 
 This slide has a hidden treasure. Press &quot;s&quot; to see the speaker notes.
 
 Note:
 
-THIS TEXT IS HIDDEEEEEEEN! :)</content><author><name></name></author><summary type="html"># A hidden treasure</summary></entry><entry><title type="html">Code</title><link href="http://localhost:4000/0000/01/06/code.md" rel="alternate" type="text/html" title="Code" /><published>0000-01-06T00:00:00+01:00</published><updated>0000-01-06T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/06/code</id><content type="html" xml:base="http://localhost:4000/0000/01/06/code.md">With syntax highlighting for your code:
+THIS TEXT IS HIDDEEEEEEEN! :)</content><author><name></name></author><summary type="html"># A hidden treasure</summary></entry><entry><title type="html">Thanks</title><link href="http://localhost:4000/0000/01/06/thanks.md" rel="alternate" type="text/html" title="Thanks" /><published>0000-01-06T00:00:00+01:00</published><updated>0000-01-06T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/06/thanks</id><content type="html" xml:base="http://localhost:4000/0000/01/06/thanks.md">With syntax highlighting for your code:
 
 ```python
 import pprint
@@ -20,11 +20,11 @@ class MyClass(object):
 if __name__ == &quot;__main__&quot;:
     # This is a comment
     pprint.pprint({'Key1': 0x34, 'Key2': 'Hi'})
-```</content><author><name></name></author><summary type="html">With syntax highlighting for your code:</summary></entry><entry><title type="html">Background</title><link href="http://localhost:4000/0000/01/05/background.md" rel="alternate" type="text/html" title="Background" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/background</id><content type="html" xml:base="http://localhost:4000/0000/01/05/background.md"># Backgrounds
+```</content><author><name></name></author><summary type="html">With syntax highlighting for your code:</summary></entry><entry><title type="html">Ideas</title><link href="http://localhost:4000/0000/01/05/ideas.md" rel="alternate" type="text/html" title="Ideas" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/ideas</id><content type="html" xml:base="http://localhost:4000/0000/01/05/ideas.md"># Backgrounds
 
 &lt;!-- .slide: data-background=&quot;green &quot; --&gt; 
 
-Or use different backgrounds.</content><author><name></name></author><summary type="html"># Backgrounds</summary></entry><entry><title type="html">Vertical</title><link href="http://localhost:4000/0000/01/04/vertical.md" rel="alternate" type="text/html" title="Vertical" /><published>0000-01-04T00:00:00+01:00</published><updated>0000-01-04T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/04/vertical</id><content type="html" xml:base="http://localhost:4000/0000/01/04/vertical.md">## Vertical Slides
+Or use different backgrounds.</content><author><name></name></author><summary type="html"># Backgrounds</summary></entry><entry><title type="html">Position_profile</title><link href="http://localhost:4000/0000/01/04/position_profile.md" rel="alternate" type="text/html" title="Position_profile" /><published>0000-01-04T00:00:00+01:00</published><updated>0000-01-04T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/04/position_profile</id><content type="html" xml:base="http://localhost:4000/0000/01/04/position_profile.md">## Vertical Slides
 
 Or
 
@@ -43,17 +43,125 @@ Slides</content><author><name></name></author><summary type="html">## Vertical S
 It's also possible to do fragments.
 
 - Like &lt;!-- .element: class=&quot;fragment&quot; --&gt;
-- This &lt;!-- .element: class=&quot;fragment&quot; --&gt;</content><author><name></name></author><summary type="html">## Fragments</summary></entry><entry><title type="html">Slides</title><link href="http://localhost:4000/0000/01/02/slides.md" rel="alternate" type="text/html" title="Slides" /><published>0000-01-02T00:00:00+01:00</published><updated>0000-01-02T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/02/slides</id><content type="html" xml:base="http://localhost:4000/0000/01/02/slides.md">## Slide 2
+- This &lt;!-- .element: class=&quot;fragment&quot; --&gt;</content><author><name></name></author><summary type="html">## Fragments</summary></entry><entry><title type="html">Career_history</title><link href="http://localhost:4000/0000/01/02/career_history.md" rel="alternate" type="text/html" title="Career_history" /><published>0000-01-02T00:00:00+01:00</published><updated>0000-01-02T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/02/career_history</id><content type="html" xml:base="http://localhost:4000/0000/01/02/career_history.md">## Topics
 
-This is the second slide. And it's just another file inside the _posts-directory.
+- **Career history:** 
+ - Previous work and projects relevant to Nuritas. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
-It is identified as slide 2, because it has a &quot;2&quot; after the mandatory date-part (0000-01-01) in its
-filename. (It's called 0000-01-02-slides.md)
+- **Position profile:**
+ - How I believe my experience and background will be a good fit. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- **Ideas:** 
+ - Concepts and ideas that I believe might be of interest for the role. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 ---
 
-This is a third slide, although we're still in 0000-01-02-slides.md.</content><author><name></name></author><summary type="html">## Slide 2</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/0000/01/01/welcome.md" rel="alternate" type="text/html" title="Welcome" /><published>0000-01-01T00:00:00+01:00</published><updated>0000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/01/welcome</id><content type="html" xml:base="http://localhost:4000/0000/01/01/welcome.md">## Shane Whelan
+### Career history. College !
 
-Interview for Nuritas Bioinformatician role.
+Biology           |  Data Science
+:-------------------------:|:-------------------------:
+&lt;img src=&quot;https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/features-listing-images/olg_tv_whatdoyouknow_genetics/2144577-1-eng-US/olg_tv_whatdoyouknow_genetics.jpg&quot; alt=&quot;drawing&quot; width=&quot;350px&quot;/&gt;  |  &lt;img src=&quot;https://www.uab.edu/news/images/data_science_stream.jpg&quot; alt=&quot;drawing&quot; width=&quot;825px&quot;/&gt;
+BSc Genetics (UCC) 2010, MSc Immunology and Global Health (NUIM) 2012 |  HDip Data Science and Analytics (CIT) (2014)
 
-![test](/public/img/carragh_lake.jpg)</content><author><name></name></author><summary type="html">## Shane Whelan</summary></entry></feed>
+--
+
+&lt;img src=&quot;https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/features-listing-images/olg_tv_whatdoyouknow_genetics/2144577-1-eng-US/olg_tv_whatdoyouknow_genetics.jpg&quot; alt=&quot;drawing&quot; width=&quot;250px&quot;/&gt;
+
+- **_BSc Genetics 2010_**
+ - Genomics, Bioinformatics, Statistics, Molecular biology. 
+ - Final year project in bioinformatics (investigating bacterial pseudogenes in failed horizontal gene transfer events)
+
+--
+
+&lt;img src=&quot;https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/features-listing-images/olg_tv_whatdoyouknow_genetics/2144577-1-eng-US/olg_tv_whatdoyouknow_genetics.jpg&quot; alt=&quot;drawing&quot; width=&quot;250px&quot;/&gt;
+
+- **_MSc Immunology and Global Health 2012_**
+ - Epidemiology and disease modelling, molecular immunology, proteomics/bioinformatics.
+ - Master thesis. Preperation of a genomic library of a virulent e-coli strain known to be associated with Crohn's disease in humans. 
+
+--
+
+&lt;img src=&quot;https://www.uab.edu/news/images/data_science_stream.jpg&quot; alt=&quot;drawing&quot; width=&quot;250px&quot;/&gt;
+
+- **_HDip Data Science and Analytics 2014_**
+ - Mathematics, statistics, distributed computing, Python and R programming, machine learning.
+ - Thesis. Sentiment analysis and opinion mining of Twitter using a Naive Bayes classifier.
+
+--
+
+Twitter Sentiment Analysis on real time data.
+
+&lt;img src=&quot;/public/img/GermanyWC.png&quot; alt=&quot;drawing&quot; width=&quot;800px&quot;/&gt;
+
+Gave some presentations in Cork and received a job offer at Xanadu consultancy.
+
+
+---
+
+### Career history. College !
+
+##### Experience working in data science
+
+&lt;img src=&quot;https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg&quot; alt=&quot;drawing&quot; width=&quot;300px&quot;/&gt;
+
+- I joined Xanadu consultancy in 2014 as a Data Scientist.
+- Initally worked in the &quot;Data Analytics&quot; team (2 years).
+- Then worked in &quot;Data Products&quot; team (&gt;9 months).
+
+--
+
+&lt;img src=&quot;https://calvinayre.com/wp-content/uploads/2015/10/worlds-first-personalised-sports-betting-apple-watch-app-is-released.jpg&quot; alt=&quot;drawing&quot; width=&quot;300px&quot;/&gt;  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK57cmXfHffCHjuq3N6YBdzzcOMxGbH5UnWBjgaQBIxrBiRpVG&quot; alt=&quot;drawing&quot; width=&quot;300px&quot;/&gt; 
+
+
+##### Example of some projects I worked on at Xanadu
+
+##### Data Analytics Team at Xanadu
+&lt;small&gt;- Haproxy log files  &lt;/small&gt; &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ &lt;small&gt;- setup processes in MongoDB, later Google Bigquery &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
+&lt;small&gt;- R package for data analytics team &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
+&lt;small&gt;- Personalization (twitter, commissions) &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
+&lt;small&gt;- Migration &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
+&lt;small&gt;- Many other data projects, including fraud detection, LTV, Churn etc. &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
+&lt;small&gt;- Prices analytics (NFTN tool). &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
+
+--
+
+&lt;img src=&quot;https://www.freebets.org.uk/img/185&quot; alt=&quot;drawing&quot; width=&quot;400px&quot;/&gt;
+
+##### Data Products Team at Xanadu (~ 9 months)
+&lt;small&gt;- Bonus engine &lt;/small&gt;
+ &lt;small&gt;- The above image is for a 50 (% fragment %} &lt;/small&gt;
+&lt;small&gt;- sdsdsds &lt;/small&gt;
+&lt;small&gt;- Prices analytics (NFTN tool V2). &lt;/small&gt;
+
+--
+
+Working holiday visa in New Zealand and working as a Business analyst / Data Scientist.
+
+&lt;img src=&quot;http://www.wigramhealth.co.nz/wp-content/uploads/2016/06/Document-page-001.jpg&quot; width=&quot;350px&quot;/&gt; &lt;img src=&quot;
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96XrDid3bAXDfXIfrEdAXwx0zzcdf_LFM9yZh76A81SppBTt0&quot; width=&quot;180px&quot;/&gt; 
+
+
+
+
+&lt;small&gt;- Business analytics &lt;/small&gt;
+ &lt;small&gt;- The above image is for a 50 (% fragment %} &lt;/small&gt;
+&lt;small&gt;- sdsdsds &lt;/small&gt;
+&lt;small&gt;- Prices analytics (NFTN tool V2). &lt;/small&gt;
+
+---
+
+### Career history. 
+
+##### Recap and how I feel some of the projects are relevant to Nuritas !
+
+
+##### I feel I have a strong background in bioligcal sciences and informatics.</content><author><name></name></author><summary type="html">## Topics</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/0000/01/01/welcome.md" rel="alternate" type="text/html" title="Welcome" /><published>0000-01-01T00:00:00+01:00</published><updated>0000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/01/welcome</id><content type="html" xml:base="http://localhost:4000/0000/01/01/welcome.md">## Shane Whelan
+
+Interview for Nuritas Bioinformatician.
+
+&lt;!-- ![test](/public/img/carragh_lake.jpg) --&gt;
+
+&lt;img src=&quot;https://azcdn.discovery.pgsitecore.com/en-us/-/media/Olay_PathFinder/Images/Callouts/Brand_Experience_promos/Desktop/DT_BE_Landing_Aminopeptides_HeaderImage.jpg?h=310&amp;la=en-US&amp;w=500&amp;v=1-201802281215&quot; alt=&quot;drawing&quot; width=&quot;500px&quot;/&gt;
+
+&lt;small&gt;image source : https://www.olay.com/en-us/skin-care-guide/amino-peptides&lt;/small&gt;</content><author><name></name></author><summary type="html">## Shane Whelan</summary></entry></feed>
