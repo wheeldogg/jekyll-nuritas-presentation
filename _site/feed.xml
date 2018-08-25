@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T16:48:46+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Notes</title><link href="http://localhost:4000/0000/01/07/notes.md" rel="alternate" type="text/html" title="Notes" /><published>0000-01-07T00:00:00+01:00</published><updated>0000-01-07T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/07/notes</id><content type="html" xml:base="http://localhost:4000/0000/01/07/notes.md"># A hidden treasure
+
+This slide has a hidden treasure. Press &quot;s&quot; to see the speaker notes.
+
+Note:
+
+THIS TEXT IS HIDDEEEEEEEN! :)</content><author><name></name></author><summary type="html"># A hidden treasure</summary></entry><entry><title type="html">Code</title><link href="http://localhost:4000/0000/01/06/code.md" rel="alternate" type="text/html" title="Code" /><published>0000-01-06T00:00:00+01:00</published><updated>0000-01-06T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/06/code</id><content type="html" xml:base="http://localhost:4000/0000/01/06/code.md">With syntax highlighting for your code:
+
+```python
+import pprint
+
+class MyClass(object):
+    def __init__(self):
+        self.a = 1
+
+    @classmethod
+    def some_classmethod(cls, a):
+        self.a = a
+
+if __name__ == &quot;__main__&quot;:
+    # This is a comment
+    pprint.pprint({'Key1': 0x34, 'Key2': 'Hi'})
+```</content><author><name></name></author><summary type="html">With syntax highlighting for your code:</summary></entry><entry><title type="html">Background</title><link href="http://localhost:4000/0000/01/05/background.md" rel="alternate" type="text/html" title="Background" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/background</id><content type="html" xml:base="http://localhost:4000/0000/01/05/background.md"># Backgrounds
+
+&lt;!-- .slide: data-background=&quot;green &quot; --&gt; 
+
+Or use different backgrounds.</content><author><name></name></author><summary type="html"># Backgrounds</summary></entry><entry><title type="html">Vertical</title><link href="http://localhost:4000/0000/01/04/vertical.md" rel="alternate" type="text/html" title="Vertical" /><published>0000-01-04T00:00:00+01:00</published><updated>0000-01-04T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/04/vertical</id><content type="html" xml:base="http://localhost:4000/0000/01/04/vertical.md">## Vertical Slides
+
+Or
+
+--
+
+Even
+
+--
+
+Vertical
+
+--
+
+Slides</content><author><name></name></author><summary type="html">## Vertical Slides</summary></entry><entry><title type="html">Fragments</title><link href="http://localhost:4000/0000/01/03/fragments.md" rel="alternate" type="text/html" title="Fragments" /><published>0000-01-03T00:00:00+01:00</published><updated>0000-01-03T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/03/fragments</id><content type="html" xml:base="http://localhost:4000/0000/01/03/fragments.md">## Fragments
+
+It's also possible to do fragments.
+
+- Like &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- This &lt;!-- .element: class=&quot;fragment&quot; --&gt;</content><author><name></name></author><summary type="html">## Fragments</summary></entry><entry><title type="html">Slides</title><link href="http://localhost:4000/0000/01/02/slides.md" rel="alternate" type="text/html" title="Slides" /><published>0000-01-02T00:00:00+01:00</published><updated>0000-01-02T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/02/slides</id><content type="html" xml:base="http://localhost:4000/0000/01/02/slides.md">## Slide 2
+
+This is the second slide. And it's just another file inside the _posts-directory.
+
+It is identified as slide 2, because it has a &quot;2&quot; after the mandatory date-part (0000-01-01) in its
+filename. (It's called 0000-01-02-slides.md)
+
+---
+
+This is a third slide, although we're still in 0000-01-02-slides.md.</content><author><name></name></author><summary type="html">## Slide 2</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/0000/01/01/welcome.md" rel="alternate" type="text/html" title="Welcome" /><published>0000-01-01T00:00:00+01:00</published><updated>0000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/01/welcome</id><content type="html" xml:base="http://localhost:4000/0000/01/01/welcome.md">## Shane Whelan
+
+Welcome to the jekyll-reveal.js example presentation.</content><author><name></name></author><summary type="html">## Shane Whelan</summary></entry></feed>
