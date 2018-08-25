@@ -1,62 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T22:43:44+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Notes</title><link href="http://localhost:4000/0000/01/07/notes.md" rel="alternate" type="text/html" title="Notes" /><published>0000-01-07T00:00:00+01:00</published><updated>0000-01-07T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/07/notes</id><content type="html" xml:base="http://localhost:4000/0000/01/07/notes.md"># A hidden treasure
-
-This slide has a hidden treasure. Press &quot;s&quot; to see the speaker notes.
-
-Note:
-
-THIS TEXT IS HIDDEEEEEEEN! :)</content><author><name></name></author><summary type="html"># A hidden treasure</summary></entry><entry><title type="html">Thanks</title><link href="http://localhost:4000/0000/01/06/thanks.md" rel="alternate" type="text/html" title="Thanks" /><published>0000-01-06T00:00:00+01:00</published><updated>0000-01-06T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/06/thanks</id><content type="html" xml:base="http://localhost:4000/0000/01/06/thanks.md">With syntax highlighting for your code:
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-26T00:25:13+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Conclusion</title><link href="http://localhost:4000/0000/01/05/conclusion.md" rel="alternate" type="text/html" title="Conclusion" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/conclusion</id><content type="html" xml:base="http://localhost:4000/0000/01/05/conclusion.md"># Thank you !!
 
 ```python
 import pprint
 
-class MyClass(object):
-    def __init__(self):
-        self.a = 1
+tnx = &quot;Looking forward to your thoughts and discussion&quot;
 
-    @classmethod
-    def some_classmethod(cls, a):
-        self.a = a
+pprint.pprint({tnx})
+```</content><author><name></name></author><summary type="html"># Thank you !!</summary></entry><entry><title type="html">Ideas</title><link href="http://localhost:4000/0000/01/04/ideas.md" rel="alternate" type="text/html" title="Ideas" /><published>0000-01-04T00:00:00+01:00</published><updated>0000-01-04T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/04/ideas</id><content type="html" xml:base="http://localhost:4000/0000/01/04/ideas.md">## 3. Ideas !
 
-if __name__ == &quot;__main__&quot;:
-    # This is a comment
-    pprint.pprint({'Key1': 0x34, 'Key2': 'Hi'})
-```</content><author><name></name></author><summary type="html">With syntax highlighting for your code:</summary></entry><entry><title type="html">Ideas</title><link href="http://localhost:4000/0000/01/05/ideas.md" rel="alternate" type="text/html" title="Ideas" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/ideas</id><content type="html" xml:base="http://localhost:4000/0000/01/05/ideas.md"># Backgrounds
+&lt;small&gt;
 
-&lt;!-- .slide: data-background=&quot;green &quot; --&gt; 
+Introduce Rshiny apps that we can work on putting inside the Django stuff that has been created. This is a project I wanted to work towards at pacific radiology. Give the example of the site that does this. We can build all the statiscal stuff we require here.
+Automation pipelines.
+I brought skills onboard here.
+Visualization.
 
-Or use different backgrounds.</content><author><name></name></author><summary type="html"># Backgrounds</summary></entry><entry><title type="html">Position_profile</title><link href="http://localhost:4000/0000/01/04/position_profile.md" rel="alternate" type="text/html" title="Position_profile" /><published>0000-01-04T00:00:00+01:00</published><updated>0000-01-04T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/04/position_profile</id><content type="html" xml:base="http://localhost:4000/0000/01/04/position_profile.md">## Vertical Slides
+-- 
+Another powerful tool is launching updated Excel documents.
+Data entry, use of Excel and even google sheets for collecting information from the wetlab.
+Python package and alert scripts.
 
-Or
+&lt;/small&gt;</content><author><name></name></author><summary type="html">## 3. Ideas !</summary></entry><entry><title type="html">Position_profile</title><link href="http://localhost:4000/0000/01/03/position_profile.md" rel="alternate" type="text/html" title="Position_profile" /><published>0000-01-03T00:00:00+01:00</published><updated>0000-01-03T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/03/position_profile</id><content type="html" xml:base="http://localhost:4000/0000/01/03/position_profile.md">## 2. Position Profile !
+
+
+&lt;img src=&quot;/public/img/bioinformatics.png&quot; alt=&quot;drawing&quot; width=&quot;500px&quot;/&gt; 
+
+&lt;small&gt;
+
+Domain knowledge (Data Science) is replaced with Biology (Bioinformatics) and my aim is to integrate my work experience in data science with my college background in Genetics and Immunology.
+
+&lt;/small&gt;
 
 --
 
-Even
+Responsibilities of the role and experience.
+
+&lt;small&gt;
+
+- Developing Bioinformatics software.
+ - Python and R package development and creating functions. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- Large volumes of biological data
+ - Experience: Cassandra, Spark, AWS, Google bigquery. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+  - Bioinformatics : Large scale biological data. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- Data extraction and integration:
+ - Experience : Reporting and automation. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - SQL and NoSQL experience. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- Ensuring high quality data.
+ - Experience : Test driven development. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- Help with training colleagues across the business. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+
+&lt;/small&gt;
 
 --
 
-Vertical
+Technical skills with examples.
+
+&lt;small&gt;
+
+- Python and R developer.
+ - Building fucntions and contributing to our aanalytics packages (R and python) to be used by the analytics team. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- Experience with web development.
+ - Used Flask before but have not created Django apps previously. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - I'm hopeful my python knowledge will help me learn this skill fast. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - RShiny visualizations and javascript libraries. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Learning javascript and experimenting (such as with this presentation) with more javascript. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- Comfortable with Linux and windows.
+ - Number of years experience working on ubuntu machines and AWS &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- Bioinformatics tools.
+ - FYP in Genetics using tools like Blast and a custom tool to analyze GC content in genomes. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- Very comfortable with SQL and NoSQL. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+
+&lt;/small&gt;
 
 --
 
-Slides</content><author><name></name></author><summary type="html">## Vertical Slides</summary></entry><entry><title type="html">Fragments</title><link href="http://localhost:4000/0000/01/03/fragments.md" rel="alternate" type="text/html" title="Fragments" /><published>0000-01-03T00:00:00+01:00</published><updated>0000-01-03T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/03/fragments</id><content type="html" xml:base="http://localhost:4000/0000/01/03/fragments.md">## Fragments
+##### 2. Position Profile overview.
+&lt;img src=&quot;https://www.wur.nl/upload_mm/a/b/a/f0597c79-1e04-4103-bf4d-931db32ab928_bioinformatics_6aab5957_490x330.png&quot; width=&quot;300px&quot;/&gt;
 
-It's also possible to do fragments.
+&lt;small&gt;
 
-- Like &lt;!-- .element: class=&quot;fragment&quot; --&gt;
-- This &lt;!-- .element: class=&quot;fragment&quot; --&gt;</content><author><name></name></author><summary type="html">## Fragments</summary></entry><entry><title type="html">Career_history</title><link href="http://localhost:4000/0000/01/02/career_history.md" rel="alternate" type="text/html" title="Career_history" /><published>0000-01-02T00:00:00+01:00</published><updated>0000-01-02T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/02/career_history</id><content type="html" xml:base="http://localhost:4000/0000/01/02/career_history.md">## Topics
+I'm really looking forward to going back and using my data science skills developed in the last number of years in biology. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
-- **Career history:** 
- - Previous work and projects relevant to Nuritas. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+I feel my commercial experience has been very beneficial in terms of working towards tight deadlines and ensuring high quality data. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
-- **Position profile:**
- - How I believe my experience and background will be a good fit. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+My experience in NZ has also been very beneficial in terms of developing my soft skills and working and presenting findings to many different business faculties. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
-- **Ideas:** 
- - Concepts and ideas that I believe might be of interest for the role. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
-
----
-
-### Career history. College !
+&lt;/small&gt;</content><author><name></name></author><summary type="html">## 2. Position Profile !</summary></entry><entry><title type="html">Career_history</title><link href="http://localhost:4000/0000/01/02/career_history.md" rel="alternate" type="text/html" title="Career_history" /><published>0000-01-02T00:00:00+01:00</published><updated>0000-01-02T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/02/career_history</id><content type="html" xml:base="http://localhost:4000/0000/01/02/career_history.md">### 1. Career history: College !
 
 Biology           |  Data Science
 :-------------------------:|:-------------------------:
@@ -67,25 +106,37 @@ BSc Genetics (UCC) 2010, MSc Immunology and Global Health (NUIM) 2012 |  HDip Da
 
 &lt;img src=&quot;https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/features-listing-images/olg_tv_whatdoyouknow_genetics/2144577-1-eng-US/olg_tv_whatdoyouknow_genetics.jpg&quot; alt=&quot;drawing&quot; width=&quot;250px&quot;/&gt;
 
+&lt;small&gt;
+
 - **_BSc Genetics 2010_**
  - Genomics, Bioinformatics, Statistics, Molecular biology. 
  - Final year project in bioinformatics (investigating bacterial pseudogenes in failed horizontal gene transfer events)
+
+&lt;/small&gt;
 
 --
 
 &lt;img src=&quot;https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/features-listing-images/olg_tv_whatdoyouknow_genetics/2144577-1-eng-US/olg_tv_whatdoyouknow_genetics.jpg&quot; alt=&quot;drawing&quot; width=&quot;250px&quot;/&gt;
 
+&lt;small&gt;
+
 - **_MSc Immunology and Global Health 2012_**
  - Epidemiology and disease modelling, molecular immunology, proteomics/bioinformatics.
  - Master thesis. Preperation of a genomic library of a virulent e-coli strain known to be associated with Crohn's disease in humans. 
+
+&lt;/small&gt;
 
 --
 
 &lt;img src=&quot;https://www.uab.edu/news/images/data_science_stream.jpg&quot; alt=&quot;drawing&quot; width=&quot;250px&quot;/&gt;
 
+&lt;small&gt;
+
 - **_HDip Data Science and Analytics 2014_**
  - Mathematics, statistics, distributed computing, Python and R programming, machine learning.
  - Thesis. Sentiment analysis and opinion mining of Twitter using a Naive Bayes classifier.
+
+&lt;/small&gt;
 
 --
 
@@ -93,20 +144,26 @@ Twitter Sentiment Analysis on real time data.
 
 &lt;img src=&quot;/public/img/GermanyWC.png&quot; alt=&quot;drawing&quot; width=&quot;800px&quot;/&gt;
 
-Gave some presentations in Cork and received a job offer at Xanadu consultancy.
-
+&lt;small&gt;
+The above graph represents a time series of sentiment over time for the world cup final in 2014.I gave presentations on this algorithm and the thesis in CIT and the CSO in Cork.
+&lt;/small&gt;
 
 ---
 
-### Career history. College !
+### 1. Career history. Work !
 
 ##### Experience working in data science
 
 &lt;img src=&quot;https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg&quot; alt=&quot;drawing&quot; width=&quot;300px&quot;/&gt;
 
+&lt;small&gt;
+
 - I joined Xanadu consultancy in 2014 as a Data Scientist.
 - Initally worked in the &quot;Data Analytics&quot; team (2 years).
 - Then worked in &quot;Data Products&quot; team (&gt;9 months).
+
+&lt;/small&gt;
+
 
 --
 
@@ -115,53 +172,90 @@ Gave some presentations in Cork and received a job offer at Xanadu consultancy.
 
 ##### Example of some projects I worked on at Xanadu
 
-##### Data Analytics Team at Xanadu
-&lt;small&gt;- Haproxy log files  &lt;/small&gt; &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- &lt;small&gt;- setup processes in MongoDB, later Google Bigquery &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
-&lt;small&gt;- R package for data analytics team &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
-&lt;small&gt;- Personalization (twitter, commissions) &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
-&lt;small&gt;- Migration &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
-&lt;small&gt;- Many other data projects, including fraud detection, LTV, Churn etc. &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
-&lt;small&gt;- Prices analytics (NFTN tool). &lt;!-- .element: class=&quot;fragment&quot; --&gt; &lt;/small&gt;
+&lt;small&gt;
+
+##### Data Analytics Team
+- Haproxy log files &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - setup processes in MongoDB, later Google Bigquery &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - R package for data analytics team &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Personalization (twitter, commissions) &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Migration &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Many other data projects, including fraud detection, LTV, Churn etc. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Prices analytics (NFTN tool). &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+&lt;/small&gt;
 
 --
 
 &lt;img src=&quot;https://www.freebets.org.uk/img/185&quot; alt=&quot;drawing&quot; width=&quot;400px&quot;/&gt;
 
-##### Data Products Team at Xanadu (~ 9 months)
-&lt;small&gt;- Bonus engine &lt;/small&gt;
- &lt;small&gt;- The above image is for a 50 (% fragment %} &lt;/small&gt;
-&lt;small&gt;- sdsdsds &lt;/small&gt;
-&lt;small&gt;- Prices analytics (NFTN tool V2). &lt;/small&gt;
+##### Example of some projects I worked on at Xanadu
+
+&lt;small&gt;
+
+##### Data Products Team (~9 months)
+- Bonus engine
+ - The above image is for a 50 &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - sdsdsds
+ - Prices analytics (NFTN tool V2).
+
+&lt;/small&gt;
 
 --
 
-Working holiday visa in New Zealand and working as a Business analyst / Data Scientist.
+Worked in New Zealand as a BA/Data Scientist.
 
 &lt;img src=&quot;http://www.wigramhealth.co.nz/wp-content/uploads/2016/06/Document-page-001.jpg&quot; width=&quot;350px&quot;/&gt; &lt;img src=&quot;
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96XrDid3bAXDfXIfrEdAXwx0zzcdf_LFM9yZh76A81SppBTt0&quot; width=&quot;180px&quot;/&gt; 
 
+&lt;small&gt;
 
+- Business analytics on radiology data.
 
+ - The above image is for a 50 (% fragment %}
 
-&lt;small&gt;- Business analytics &lt;/small&gt;
- &lt;small&gt;- The above image is for a 50 (% fragment %} &lt;/small&gt;
-&lt;small&gt;- sdsdsds &lt;/small&gt;
-&lt;small&gt;- Prices analytics (NFTN tool V2). &lt;/small&gt;
+ - sdsdsds
 
----
+ - Prices analytics (NFTN tool V2). 
 
-### Career history. 
+&lt;/small&gt;
 
-##### Recap and how I feel some of the projects are relevant to Nuritas !
+--
 
+##### 1. Career history and skills relevant for Nuritas
 
-##### I feel I have a strong background in bioligcal sciences and informatics.</content><author><name></name></author><summary type="html">## Topics</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/0000/01/01/welcome.md" rel="alternate" type="text/html" title="Welcome" /><published>0000-01-01T00:00:00+01:00</published><updated>0000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/01/welcome</id><content type="html" xml:base="http://localhost:4000/0000/01/01/welcome.md">## Shane Whelan
+&lt;small&gt;
 
+How I feel some of the projects are relevant to Nuritas ! &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+I feel I have a strong background in bioligcal sciences and informatics. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+In the next section when reviewing the position description I'll describe in more detail the tools used. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+&lt;/small&gt;</content><author><name></name></author><summary type="html">### 1. Career history: College !</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/0000/01/01/welcome.md" rel="alternate" type="text/html" title="Welcome" /><published>0000-01-01T00:00:00+01:00</published><updated>0000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/01/welcome</id><content type="html" xml:base="http://localhost:4000/0000/01/01/welcome.md">## Shane Whelan
 Interview for Nuritas Bioinformatician.
 
 &lt;!-- ![test](/public/img/carragh_lake.jpg) --&gt;
 
-&lt;img src=&quot;https://azcdn.discovery.pgsitecore.com/en-us/-/media/Olay_PathFinder/Images/Callouts/Brand_Experience_promos/Desktop/DT_BE_Landing_Aminopeptides_HeaderImage.jpg?h=310&amp;la=en-US&amp;w=500&amp;v=1-201802281215&quot; alt=&quot;drawing&quot; width=&quot;500px&quot;/&gt;
+&lt;img src=&quot;https://azcdn.discovery.pgsitecore.com/en-us/-/media/Olay_PathFinder/Images/Callouts/Brand_Experience_promos/Desktop/DT_BE_Landing_Aminopeptides_HeaderImage.jpg?h=310&amp;la=en-US&amp;w=500&amp;v=1-201802281215&quot; alt=&quot;drawing&quot; width=&quot;420px&quot;/&gt;
 
-&lt;small&gt;image source : https://www.olay.com/en-us/skin-care-guide/amino-peptides&lt;/small&gt;</content><author><name></name></author><summary type="html">## Shane Whelan</summary></entry></feed>
+&lt;small&gt;image source : https://www.olay.com/en-us/skin-care-guide/amino-peptides&lt;/small&gt;
+
+---
+
+## Topics.
+
+&lt;small&gt;
+
+- **1. Career history:** 
+ - Previous work experience and projects relevant to Nuritas. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- **2. Position profile:**
+ - How I believe my experience and background will be a good fit. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+ - Tools used and key competencies. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+- **3. Ideas:** 
+ - Concepts and ideas that I believe might be of interest to the team &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+&lt;/small&gt;</content><author><name></name></author><summary type="html">## Shane Whelan Interview for Nuritas Bioinformatician.</summary></entry></feed>
