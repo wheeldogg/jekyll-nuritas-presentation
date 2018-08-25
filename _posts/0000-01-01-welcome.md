@@ -1,3 +1,5 @@
 ## Shane Whelan
 
-Welcome to the jekyll-reveal.js example presentation.
+Interview for Nuritas Bioinformatician role.
+
+![test](/public/img/carragh_lake.jpg)

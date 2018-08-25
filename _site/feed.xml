@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T16:48:46+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Notes</title><link href="http://localhost:4000/0000/01/07/notes.md" rel="alternate" type="text/html" title="Notes" /><published>0000-01-07T00:00:00+01:00</published><updated>0000-01-07T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/07/notes</id><content type="html" xml:base="http://localhost:4000/0000/01/07/notes.md"># A hidden treasure
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T17:25:17+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Notes</title><link href="http://localhost:4000/0000/01/07/notes.md" rel="alternate" type="text/html" title="Notes" /><published>0000-01-07T00:00:00+01:00</published><updated>0000-01-07T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/07/notes</id><content type="html" xml:base="http://localhost:4000/0000/01/07/notes.md"># A hidden treasure
 
 This slide has a hidden treasure. Press &quot;s&quot; to see the speaker notes.
 
@@ -54,4 +54,6 @@ filename. (It's called 0000-01-02-slides.md)
 
 This is a third slide, although we're still in 0000-01-02-slides.md.</content><author><name></name></author><summary type="html">## Slide 2</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/0000/01/01/welcome.md" rel="alternate" type="text/html" title="Welcome" /><published>0000-01-01T00:00:00+01:00</published><updated>0000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/01/welcome</id><content type="html" xml:base="http://localhost:4000/0000/01/01/welcome.md">## Shane Whelan
 
-Welcome to the jekyll-reveal.js example presentation.</content><author><name></name></author><summary type="html">## Shane Whelan</summary></entry></feed>
+Interview for Nuritas Bioinformatician role.
+
+![test](/public/img/carragh_lake.jpg)</content><author><name></name></author><summary type="html">## Shane Whelan</summary></entry></feed>
