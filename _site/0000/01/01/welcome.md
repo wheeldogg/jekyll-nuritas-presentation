@@ -13,15 +13,13 @@ Interview for Nuritas Bioinformatician.
 
 <small>
 
-- **1. Career history:** 
- - Previous work experience and projects relevant to Nuritas. <!-- .element: class="fragment" -->
-
-- **2. Position profile:**
- - How I believe my experience and background will be a good fit for the team. <!-- .element: class="fragment" -->
- - Data analytics tools and key competencies. <!-- .element: class="fragment" -->
-- **3. Ideas:** 
-
- - Concepts and ideas that may be of interest and previous experience implementing ideas <!-- .element: class="fragment" -->
+- 1.Career history:
+ - Previous college, work and projects relevant to Nuritas. 
+- 2.Position profile: <!-- .element: class="fragment" -->
+ - How I believe my experience and background is a good fit. 
+ - Data analytics tools and key competencies. 
+- 3.Ideas: <!-- .element: class="fragment" -->
+ - Ideas that may be of interest to the team and examples of incorporating new technologies and processes in previous roles
 
 </small>
 

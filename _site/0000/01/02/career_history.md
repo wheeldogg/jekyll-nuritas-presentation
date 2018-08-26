@@ -3,7 +3,7 @@
 Biology           |  Data Science
 :-------------------------:|:-------------------------:
 <img src="https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/features-listing-images/olg_tv_whatdoyouknow_genetics/2144577-1-eng-US/olg_tv_whatdoyouknow_genetics.jpg" alt="drawing" width="350px"/>  |  <img src="https://www.uab.edu/news/images/data_science_stream.jpg" alt="drawing" width="825px"/>
-BSc Genetics (UCC) 2010, MSc Immunology and Global Health (NUIM) 2012 |  HDip Data Science and Analytics (CIT) (2014)
+BSc Genetics (UCC) 2010, MSc Immunology and Global Health (NUIM) 2012 |  HDip Data Science and Analytics (CIT) 2014
 
 --
 
@@ -26,20 +26,20 @@ BSc Genetics (UCC) 2010, MSc Immunology and Global Health (NUIM) 2012 |  HDip Da
 <small>
 
 - **_MSc Immunology and Global Health 2012_**
- - Epidemiology and disease modelling, molecular immunology, proteomics/bioinformatics, anthropology and the spread of disease.
- - Master thesis. Preperation of a genomic library of a virulent e-coli strain known to be associated with Crohn's disease in humans. 
+ - Epidemiology and disease modelling, molecular immunology, clinical immunology and vaccines, proteomics/bioinformatics, anthropology and the spread of disease in human populations.
+ - Master thesis: Preperation of a genomic library of a virulent e-coli strain known to be associated with Crohn's disease in humans. 
 
 </small>
 
 --
 
-<img src="https://www.uab.edu/news/images/data_science_stream.jpg" alt="drawing" width="250px"/>
+<img src="https://www.uab.edu/news/images/data_science_stream.jpg" alt="drawing" width="350px"/>
 
 <small>
 
 - **_HDip Data Science and Analytics 2014_**
- - Mathematics, statistics, distributed computing, Python and R programming, machine learning.
- - Thesis. Sentiment analysis and opinion mining of Twitter using a Naive Bayes classifier.
+ - Mathematical modelling, statistics, machine learning, distributed computing, Python and R programming, databases (SQL and NOSQL), cloud technologies and big-data.
+ - Thesis: Sentiment analysis and opinion mining of Twitter using a Naive Bayes classifier.
 
 </small>
 
@@ -50,7 +50,7 @@ Twitter Sentiment Analysis on real time data.
 <img src="/public/img/GermanyWC.png" alt="drawing" width="800px"/>
 
 <small>
-The above graph represents a time series of sentiment over time for the world cup final in 2014.I gave presentations on this algorithm and the thesis in CIT and the CSO in Cork.
+The above graph represents a time series of sentiment over time for the world cup final in 2014. I gave presentations on this algorithm and the thesis in CIT and the CSO in Cork.
 </small>
 
 ---
@@ -60,29 +60,32 @@ The above graph represents a time series of sentiment over time for the world cu
 ##### Experience working in data science
 
 <img src="https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg" alt="drawing" width="400px"/>
-
 <small>
 
-- I joined Xanadu consultancy in 2014 as a Junior Data Scientist initially.
-- First worked in the "Data Analytics" team (2 years).
-- Then promoted and worked in the "Data Products" team (~9 months).
+- I joined Xanadu consultancy (e-commerce company) in 2014 as a Data Scientist.
+ - First worked in the "Data Analytics" team (2 years).
+ - Then worked in the "Data Products" team (~9 months).
+- Last year I moved to New Zealand and worked as a Business Analyst/Data Scientist for Pacific Radiology (diagnostic imaging services company). 
 
 </small>
 
 --
 
-<img src="https://calvinayre.com/wp-content/uploads/2015/10/worlds-first-personalised-sports-betting-apple-watch-app-is-released.jpg" alt="drawing" width="300px"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK57cmXfHffCHjuq3N6YBdzzcOMxGbH5UnWBjgaQBIxrBiRpVG" alt="drawing" width="300px"/> 
+##### Xanadu Data Analytics Team (~2 years)
 
-##### Data Analytics Team at Xanadu (~2 years)
+<img src="https://calvinayre.com/wp-content/uploads/2015/10/worlds-first-personalised-sports-betting-apple-watch-app-is-released.jpg" alt="drawing" width="300px"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK57cmXfHffCHjuq3N6YBdzzcOMxGbH5UnWBjgaQBIxrBiRpVG" alt="drawing" width="300px"/> 
 <small>
 
-- Haproxy log files <!-- .element: class="fragment" -->
- - Setup processes in MongoDB, later Google Bigquery. Using granular data (Sessions) for determining how users were interactin on the website. The aim was to help marketing understand uptake of promotions (example use of the Apple watch app among many other questions). <!-- .element: class="fragment" -->
-- R package for data analytics team. <!-- .element: class="fragment" -->
-- Personalization (e.g. twitter, personal news feed ) <!-- .element: class="fragment" -->
+Example projects
+
+- Haproxy log file analytics <!-- .element: class="fragment" -->
+ - Setup processes in MongoDB, later Google Bigquery. Using granular data (website sessions) for determining how users interact with the platform (matchbook.com). 
+ - An example purpose was to help the marketing team understand uptake of promotions (Customers using the Apple watch app for example).
+- Contribute to the development of an R package for internal data analytics. <!-- .element: class="fragment" -->
+- Personalization project (e.g. twitter, betting history) <!-- .element: class="fragment" -->
 - Migration of BI reports from MySQL to Cassandra and developing Spark processes. <!-- .element: class="fragment" -->
-- Many other data projects, including fraud detection alerts (Linking users report), LTV, Churn, Twitter prototypes <!-- .element: class="fragment" -->
-- Prices analytics (NFTN tool) (Example below) <!-- .element: class="fragment" -->
+- Many other data projects in our team, including fraud detection alerts (Linked users report), LTV, Churn and recommendation engines. <!-- .element: class="fragment" -->
+- I developed a "Prices" analytics app (NFTN tool) (Example below) <!-- .element: class="fragment" -->
 
 </small>
 
@@ -98,42 +101,44 @@ https://wheeldogg.github.io/programming/2018/07/23/data-visualization-of-betting
 
 --
 
-<img src="https://www.freebets.org.uk/img/185" alt="drawing" width="450px"/>
-
 ##### Data Products Team at Xanadu (~9 months)
+
+<img src="https://www.freebets.org.uk/img/185" alt="drawing" width="450px"/>
 <small>
 
+
 - Bonus platform engine. <!-- .element: class="fragment" -->
- - Scrum team (two data scientists, Java engineer and product owner) <!-- .element: class="fragment" -->
- - Gamification and personalization based on criteria and customer interactions <!-- .element: class="fragment" -->
- - I specifically worked on "DBStreams". This involved converting MySQL and Cassandra queries in fucntions that could be called in Python to retreive a "stream" of historical events stored in the database <!-- .element: class="fragment" -->
- - Automation of Knime Workflows created by marketing data insights analyst. Converting manual knime analytics workflows to automated solutions (example is in image above). This meant that my process would send information of customers and the amount of cash to receive in their accounts directly to the endpoint on the betting API. <!-- .element: class="fragment" -->
- - Python analytics package for easier access to repeatable queries that were unit tested. <!-- .element: class="fragment" -->
+ - Scrum team (two data scientists, Java engineer and product owner)
+ - Gamification and personalization based on criteria and customer interactions 
+ - Specifically worked on "DBStreams". This involved converting MySQL and Cassandra queries into python functions that could be run to retreive a "stream" of historical user interaction events stored in the database (combination of MySQL and Cassandra) <!-- .element: class="fragment" -->
+- Automation of Knime Workflows. <!-- .element: class="fragment" -->
+  - Automating manual knime analytics workflows to credit customers if they achieved the correct criteria (example image above).
+  - Python running "KNIME" logic, engaging with the API endpoint to credit accounts automatically.
+- Developing a Python analytics package for easier access to re-usable and tested queries <!-- .element: class="fragment" -->
 
 </small>
 
 --
 
-Worked in New Zealand as a BA/Data Scientist.
+Worked in New Zealand as a BA/Data Scientist last year.
 
 <img src="http://www.wigramhealth.co.nz/wp-content/uploads/2016/06/Document-page-001.jpg" width="350px"/> <img src="
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96XrDid3bAXDfXIfrEdAXwx0zzcdf_LFM9yZh76A81SppBTt0" width="180px"/> 
-
 <small>
 
-- Helped implement and build the data analytics infrastructure in the company <!-- .element: class="fragment" -->
-- Automated data extraction and reports and delivery via Tableau, Rshiny and Excel workbooks. <!-- .element: class="fragment" -->
-- Collected via Google sheets API from all areas of the business <!-- .element: class="fragment" -->
+- Implement and help build the data analytics expertise and reporting in the company. <!-- .element: class="fragment" -->
+- Automated data extraction, reporting and delivery via Tableau, Rshiny and Excel workbooks. <!-- .element: class="fragment" -->
+- Collected data via Google sheets API from all areas of the business . <!-- .element: class="fragment" -->
 - Built a HR database of all employees (clinicians and administration). <!-- .element: class="fragment" -->
- - Importance in terms of FTE and productivity analyis. <!-- .element: class="fragment" -->
- - Remuneration. <!-- .element: class="fragment" -->
-- Cost pricing model <!-- .element: class="fragment" -->
-- Operations pack. <!-- .element: class="fragment" -->
- - A lot of work for this was costing the company as was being outsourced, then we started using R to run TSQL procedures and build our own dashboards in Tableau.
+ - Importance in terms of FTE and productivity analyis.
+ - Remuneration.
+- Cost pricing model (extraction in R, model in Excel) <!-- .element: class="fragment" -->
+- "Ops pack" and "Finance pack" in Tableau. <!-- .element: class="fragment" -->
+ - A lot of work for this was costing the company as was being outsourced. I brought R knowledge to the company to run TSQL procedures and build our own reporting in house.
 - Voice of the patient. Text messages to customers. <!-- .element: class="fragment" -->
-- Helped train BI analyst's how to use some of the data analytics Jupyter notebooks and R. <!-- .element: class="fragment" -->
+- Helped people in the company (specifically in IT and operations) interested in data analytics and BI (ie. Jupyter notebooks and R). <!-- .element: class="fragment" -->
 - Prototyped a radiologist productivity app in Rshiny. <!-- .element: class="fragment" -->
-- Documentation ! <!-- .element: class="fragment" -->
+- Good quality documentation ! <!-- .element: class="fragment" -->
 
 </small>
 
@@ -142,14 +147,12 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96XrDid3bAXDfXIfrEdAXwx0z
 ##### 1. Career history and skills relevant to Nuritas
 
 <img src="http://mkweb.bcgsc.ca/images/masthead/circos-genome-biology-mirna.png" width="580px"/> 
-
 <small>
 
-Background in biological sciences (mostly college) and data science (commerical environements). <!-- .element: class="fragment" -->
+Background in biological sciences (mostly through college MSC and BSc) and data science (HDip and commerical experience).
 
-I've worked on a number of varying data sets and I'm hopeful that the next domain will be again Biology which was my passion in getting into sciecen initially.  <!-- .element: class="fragment" -->
+I've worked on various data sets using different analytics tools and hopefully can apply the skills I've learned in the biological sciences domain.
 
-In the next section when reviewing the position description I'll describe in more detail the tools used. <!-- .element: class="fragment" -->
-
+In the next section I'll describe in more detail the tools used and why I feel I'm a good match for the bioinformatician role.
 
 </small>
