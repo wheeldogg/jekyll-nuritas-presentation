@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-26T00:25:13+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Conclusion</title><link href="http://localhost:4000/0000/01/05/conclusion.md" rel="alternate" type="text/html" title="Conclusion" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/conclusion</id><content type="html" xml:base="http://localhost:4000/0000/01/05/conclusion.md"># Thank you !!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-26T14:12:49+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Conclusion</title><link href="http://localhost:4000/0000/01/05/conclusion.md" rel="alternate" type="text/html" title="Conclusion" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/conclusion</id><content type="html" xml:base="http://localhost:4000/0000/01/05/conclusion.md"># Thank you !!
 
 ```python
 import pprint
@@ -6,30 +6,67 @@ import pprint
 tnx = &quot;Looking forward to your thoughts and discussion&quot;
 
 pprint.pprint({tnx})
-```</content><author><name></name></author><summary type="html"># Thank you !!</summary></entry><entry><title type="html">Ideas</title><link href="http://localhost:4000/0000/01/04/ideas.md" rel="alternate" type="text/html" title="Ideas" /><published>0000-01-04T00:00:00+01:00</published><updated>0000-01-04T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/04/ideas</id><content type="html" xml:base="http://localhost:4000/0000/01/04/ideas.md">## 3. Ideas !
+```
+
+---
+
+# Image sources.
+
+
+https://azcdn.discovery.pgsitecore.com/en-us/-/media/Olay_PathFinder/Images/Callouts/Brand_Experience_promos/Desktop/DT_BE_Landing_Aminopeptides_HeaderImage.jpg?h=310&amp;la=en-US&amp;w=500&amp;v=1-201802281215</content><author><name></name></author><summary type="html"># Thank you !!</summary></entry><entry><title type="html">Ideas</title><link href="http://localhost:4000/0000/01/04/ideas.md" rel="alternate" type="text/html" title="Ideas" /><published>0000-01-04T00:00:00+01:00</published><updated>0000-01-04T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/04/ideas</id><content type="html" xml:base="http://localhost:4000/0000/01/04/ideas.md">## 3. Ideas !
+
+&lt;img src=&quot;/public/img/ideas.png&quot; width=&quot;400px&quot;/&gt; &lt;img src=&quot;/public/img/idea_man.png&quot; width=&quot;400px&quot;/&gt;
 
 &lt;small&gt;
 
-Introduce Rshiny apps that we can work on putting inside the Django stuff that has been created. This is a project I wanted to work towards at pacific radiology. Give the example of the site that does this. We can build all the statiscal stuff we require here.
-Automation pipelines.
-I brought skills onboard here.
-Visualization.
+In this part I've outlined some of ideas I've had previously and helped implement.
 
--- 
-Another powerful tool is launching updated Excel documents.
-Data entry, use of Excel and even google sheets for collecting information from the wetlab.
-Python package and alert scripts.
+
+I will have more ideas after learning more about the bioinformatics team with you.
+
+&lt;/small&gt;
+
+--
+
+
+Ideas 
+
+
+&lt;small&gt;
+
+- Build custom RShiny apps and help train biologists with clear documentation of how they work. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Furthermore, we could imbed these in Django directly and build a suite of Rshiny bioinformatics tools and visualizations https://github.com/mfcovington/djangocms-shiny-app &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Creating high quality automation pipelines using Python together with R in some cases &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Biologists often have experience with R. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Thus deploy an R package (customized and unit tested by us including statistical analyses), that biologists can install directly and perform an analysis they often require. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Can deploy Rstudio on AWS or Nuritas servers (Quick demo as required) &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Collect all data &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Possibly contribute with building a database in MongoDB (or other) of unstructured sources in the &quot;Target&quot; phase. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Collect data from the lab (ie. google sheets API or other example), store this data in a database to make more information available for the biological scientists. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Delivery of automated emails of Excel workbooks that deliver updated information of interest to the team. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+&lt;/small&gt;
+
+--
+
+Previous experience implementing ideas.
+
+&lt;small&gt;
+
+- Xanadu Consultancy.
+ - Knime workflows to bring value straight away by interacting with marketing and adopting an agile approach.
+ - NFTN app, to help customers make informated betting decisions.
+ - Identifying client IP address user agenets and from raw log files to identify fraudlent activity.
+
+- Pacific Radiology.
+ - Collecting manual entered data from all areas of the busines and interacting with teams to ensure the data follows certain rules and privalges.
+ - The value is that once we have more data we can find more insights.
+ - Another solution involved automating extracts to Tableau which significantly increased performance of reports.
 
 &lt;/small&gt;</content><author><name></name></author><summary type="html">## 3. Ideas !</summary></entry><entry><title type="html">Position_profile</title><link href="http://localhost:4000/0000/01/03/position_profile.md" rel="alternate" type="text/html" title="Position_profile" /><published>0000-01-03T00:00:00+01:00</published><updated>0000-01-03T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/03/position_profile</id><content type="html" xml:base="http://localhost:4000/0000/01/03/position_profile.md">## 2. Position Profile !
 
 
-&lt;img src=&quot;/public/img/bioinformatics.png&quot; alt=&quot;drawing&quot; width=&quot;500px&quot;/&gt; 
-
-&lt;small&gt;
-
-Domain knowledge (Data Science) is replaced with Biology (Bioinformatics) and my aim is to integrate my work experience in data science with my college background in Genetics and Immunology.
-
-&lt;/small&gt;
+&lt;img src=&quot;/public/img/bioinformatics.png&quot; alt=&quot;drawing&quot; width=&quot;800px&quot;/&gt; 
 
 --
 
@@ -49,10 +86,10 @@ Responsibilities of the role and experience.
  - SQL and NoSQL experience. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 - Ensuring high quality data.
- - Experience : Test driven development. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Experience : Test driven development in previous project. This involved adding testing suites to a python packge we were developing for all data queries. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 - Help with training colleagues across the business. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
-
+ - Pacific radiology as an example &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 &lt;/small&gt;
 
@@ -63,37 +100,35 @@ Technical skills with examples.
 &lt;small&gt;
 
 - Python and R developer.
- - Building fucntions and contributing to our aanalytics packages (R and python) to be used by the analytics team. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Building fucntions and contributing to the analytics packages (R and python) &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Very comfortable with SQL  and NoSQL databases and interacting with APIS and JSON formats. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 - Experience with web development.
- - Used Flask before but have not created Django apps previously. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - I'm hopeful my python knowledge will help me learn this skill fast. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - RShiny visualizations and javascript libraries. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Used Flask before but have not created Django apps previously (something I would love to get experience doing) &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - RShiny visualizations and javascript  libraries. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
  - Learning javascript and experimenting (such as with this presentation) with more javascript. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 - Comfortable with Linux and windows.
- - Number of years experience working on ubuntu machines and AWS &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 - Bioinformatics tools.
- - FYP in Genetics using tools like Blast and a custom tool to analyze GC content in genomes. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
-
-- Very comfortable with SQL and NoSQL. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
-
+ - FYP in Genetics using tools like Blast alignment and a custom tool to analyze GC content in genomes to predict anomolies. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 &lt;/small&gt;
 
 --
 
 ##### 2. Position Profile overview.
-&lt;img src=&quot;https://www.wur.nl/upload_mm/a/b/a/f0597c79-1e04-4103-bf4d-931db32ab928_bioinformatics_6aab5957_490x330.png&quot; width=&quot;300px&quot;/&gt;
+&lt;img src=&quot;https://www.wur.nl/upload_mm/a/b/a/f0597c79-1e04-4103-bf4d-931db32ab928_bioinformatics_6aab5957_490x330.png&quot; width=&quot;400px&quot;/&gt;
 
 &lt;small&gt;
 
-I'm really looking forward to going back and using my data science skills developed in the last number of years in biology. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+Biological sciences background with a good domain understanding.&lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
-I feel my commercial experience has been very beneficial in terms of working towards tight deadlines and ensuring high quality data. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+Commercial experience in creating high quality/performant analytics programs.&lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
-My experience in NZ has also been very beneficial in terms of developing my soft skills and working and presenting findings to many different business faculties. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+Good soft skills developed in working abroad with people of differing backgrounds. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+Focused on good teamwork and ability to learn and deliver projects independently. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 &lt;/small&gt;</content><author><name></name></author><summary type="html">## 2. Position Profile !</summary></entry><entry><title type="html">Career_history</title><link href="http://localhost:4000/0000/01/02/career_history.md" rel="alternate" type="text/html" title="Career_history" /><published>0000-01-02T00:00:00+01:00</published><updated>0000-01-02T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/02/career_history</id><content type="html" xml:base="http://localhost:4000/0000/01/02/career_history.md">### 1. Career history: College !
 
@@ -109,19 +144,21 @@ BSc Genetics (UCC) 2010, MSc Immunology and Global Health (NUIM) 2012 |  HDip Da
 &lt;small&gt;
 
 - **_BSc Genetics 2010_**
- - Genomics, Bioinformatics, Statistics, Molecular biology. 
+ - Genomics, Bioinformatics, Statistics, Molecular biology, Microbiology, Immunology and many other modules relating to Genetics.
  - Final year project in bioinformatics (investigating bacterial pseudogenes in failed horizontal gene transfer events)
 
 &lt;/small&gt;
 
 --
 
-&lt;img src=&quot;https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/features-listing-images/olg_tv_whatdoyouknow_genetics/2144577-1-eng-US/olg_tv_whatdoyouknow_genetics.jpg&quot; alt=&quot;drawing&quot; width=&quot;250px&quot;/&gt;
+&lt;img src=&quot;https://www.sanitarc.si/wp-content/uploads/2016/12/infectious.jpg&quot; alt=&quot;drawing&quot; width=&quot;450px&quot;/&gt; &lt;img src=&quot;https://plus.maths.org/content/sites/plus.maths.org/files/news/2013/ripples/geographic_web.jpg
+&quot; width=&quot;400px&quot;/&gt; 
+
 
 &lt;small&gt;
 
 - **_MSc Immunology and Global Health 2012_**
- - Epidemiology and disease modelling, molecular immunology, proteomics/bioinformatics.
+ - Epidemiology and disease modelling, molecular immunology, proteomics/bioinformatics, anthropology and the spread of disease.
  - Master thesis. Preperation of a genomic library of a virulent e-coli strain known to be associated with Crohn's disease in humans. 
 
 &lt;/small&gt;
@@ -154,50 +191,56 @@ The above graph represents a time series of sentiment over time for the world cu
 
 ##### Experience working in data science
 
-&lt;img src=&quot;https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg&quot; alt=&quot;drawing&quot; width=&quot;300px&quot;/&gt;
+&lt;img src=&quot;https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg&quot; alt=&quot;drawing&quot; width=&quot;400px&quot;/&gt;
 
 &lt;small&gt;
 
-- I joined Xanadu consultancy in 2014 as a Data Scientist.
-- Initally worked in the &quot;Data Analytics&quot; team (2 years).
-- Then worked in &quot;Data Products&quot; team (&gt;9 months).
+- I joined Xanadu consultancy in 2014 as a Junior Data Scientist initially.
+- First worked in the &quot;Data Analytics&quot; team (2 years).
+- Then promoted and worked in the &quot;Data Products&quot; team (~9 months).
 
 &lt;/small&gt;
-
 
 --
 
 &lt;img src=&quot;https://calvinayre.com/wp-content/uploads/2015/10/worlds-first-personalised-sports-betting-apple-watch-app-is-released.jpg&quot; alt=&quot;drawing&quot; width=&quot;300px&quot;/&gt;  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK57cmXfHffCHjuq3N6YBdzzcOMxGbH5UnWBjgaQBIxrBiRpVG&quot; alt=&quot;drawing&quot; width=&quot;300px&quot;/&gt; 
 
-
-##### Example of some projects I worked on at Xanadu
-
+##### Data Analytics Team at Xanadu (~2 years)
 &lt;small&gt;
 
-##### Data Analytics Team
 - Haproxy log files &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - setup processes in MongoDB, later Google Bigquery &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - R package for data analytics team &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - Personalization (twitter, commissions) &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - Migration &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - Many other data projects, including fraud detection, LTV, Churn etc. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - Prices analytics (NFTN tool). &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Setup processes in MongoDB, later Google Bigquery. Using granular data (Sessions) for determining how users were interactin on the website. The aim was to help marketing understand uptake of promotions (example use of the Apple watch app among many other questions). &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- R package for data analytics team. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Personalization (e.g. twitter, personal news feed ) &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Migration of BI reports from MySQL to Cassandra and developing Spark processes. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Many other data projects, including fraud detection alerts (Linking users report), LTV, Churn, Twitter prototypes &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Prices analytics (NFTN tool) (Example below) &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 &lt;/small&gt;
 
 --
 
-&lt;img src=&quot;https://www.freebets.org.uk/img/185&quot; alt=&quot;drawing&quot; width=&quot;400px&quot;/&gt;
+NFTN tool (News from the Numbers application)
 
-##### Example of some projects I worked on at Xanadu
+&lt;img src=&quot;/public/img/article_with_graph.png&quot; alt=&quot;drawing&quot; width=&quot;500px&quot;/&gt;
 
 &lt;small&gt;
+https://wheeldogg.github.io/programming/2018/07/23/data-visualization-of-betting-markets/
+&lt;/small&gt;
 
-##### Data Products Team (~9 months)
-- Bonus engine
- - The above image is for a 50 &lt;!-- .element: class=&quot;fragment&quot; --&gt;
- - sdsdsds
- - Prices analytics (NFTN tool V2).
+--
+
+&lt;img src=&quot;https://www.freebets.org.uk/img/185&quot; alt=&quot;drawing&quot; width=&quot;450px&quot;/&gt;
+
+##### Data Products Team at Xanadu (~9 months)
+&lt;small&gt;
+
+- Bonus platform engine. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Scrum team (two data scientists, Java engineer and product owner) &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Gamification and personalization based on criteria and customer interactions &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - I specifically worked on &quot;DBStreams&quot;. This involved converting MySQL and Cassandra queries in fucntions that could be called in Python to retreive a &quot;stream&quot; of historical events stored in the database &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Automation of Knime Workflows created by marketing data insights analyst. Converting manual knime analytics workflows to automated solutions (example is in image above). This meant that my process would send information of customers and the amount of cash to receive in their accounts directly to the endpoint on the betting API. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Python analytics package for easier access to repeatable queries that were unit tested. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 &lt;/small&gt;
 
@@ -210,40 +253,49 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96XrDid3bAXDfXIfrEdAXwx0z
 
 &lt;small&gt;
 
-- Business analytics on radiology data.
-
- - The above image is for a 50 (% fragment %}
-
- - sdsdsds
-
- - Prices analytics (NFTN tool V2). 
+- Helped implement and build the data analytics infrastructure in the company &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Automated data extraction and reports and delivery via Tableau, Rshiny and Excel workbooks. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Collected via Google sheets API from all areas of the business &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Built a HR database of all employees (clinicians and administration). &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Importance in terms of FTE and productivity analyis. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Remuneration. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Cost pricing model &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Operations pack. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - A lot of work for this was costing the company as was being outsourced, then we started using R to run TSQL procedures and build our own dashboards in Tableau.
+- Voice of the patient. Text messages to customers. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Helped train BI analyst's how to use some of the data analytics Jupyter notebooks and R. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Prototyped a radiologist productivity app in Rshiny. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+- Documentation ! &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 &lt;/small&gt;
 
 --
 
-##### 1. Career history and skills relevant for Nuritas
+##### 1. Career history and skills relevant to Nuritas
+
+&lt;img src=&quot;http://mkweb.bcgsc.ca/images/masthead/circos-genome-biology-mirna.png&quot; width=&quot;580px&quot;/&gt; 
 
 &lt;small&gt;
 
-How I feel some of the projects are relevant to Nuritas ! &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+Background in biological sciences (mostly college) and data science (commerical environements). &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
-I feel I have a strong background in bioligcal sciences and informatics. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+I've worked on a number of varying data sets and I'm hopeful that the next domain will be again Biology which was my passion in getting into sciecen initially.  &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 In the next section when reviewing the position description I'll describe in more detail the tools used. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
 
 &lt;/small&gt;</content><author><name></name></author><summary type="html">### 1. Career history: College !</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/0000/01/01/welcome.md" rel="alternate" type="text/html" title="Welcome" /><published>0000-01-01T00:00:00+01:00</published><updated>0000-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/01/welcome</id><content type="html" xml:base="http://localhost:4000/0000/01/01/welcome.md">## Shane Whelan
 Interview for Nuritas Bioinformatician.
 
 &lt;!-- ![test](/public/img/carragh_lake.jpg) --&gt;
 
-&lt;img src=&quot;https://azcdn.discovery.pgsitecore.com/en-us/-/media/Olay_PathFinder/Images/Callouts/Brand_Experience_promos/Desktop/DT_BE_Landing_Aminopeptides_HeaderImage.jpg?h=310&amp;la=en-US&amp;w=500&amp;v=1-201802281215&quot; alt=&quot;drawing&quot; width=&quot;420px&quot;/&gt;
-
-&lt;small&gt;image source : https://www.olay.com/en-us/skin-care-guide/amino-peptides&lt;/small&gt;
+&lt;img src=&quot;https://azcdn.discovery.pgsitecore.com/en-us/-/media/Olay_PathFinder/Images/Callouts/Brand_Experience_promos/Desktop/DT_BE_Landing_Aminopeptides_HeaderImage.jpg?h=310&amp;la=en-US&amp;w=500&amp;v=1-201802281215&quot; alt=&quot;drawing&quot; width=&quot;420px&quot;/&gt; &lt;img src=&quot;/public/img/Nuritas.png&quot; alt=&quot;drawing&quot; width=&quot;258px&quot;/&gt;
 
 ---
 
 ## Topics.
+
+#### Three main sections to discuss
 
 &lt;small&gt;
 
@@ -251,11 +303,10 @@ Interview for Nuritas Bioinformatician.
  - Previous work experience and projects relevant to Nuritas. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 - **2. Position profile:**
- - How I believe my experience and background will be a good fit. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
-
- - Tools used and key competencies. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
-
+ - How I believe my experience and background will be a good fit for the team. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+ - Data analytics tools and key competencies. &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 - **3. Ideas:** 
- - Concepts and ideas that I believe might be of interest to the team &lt;!-- .element: class=&quot;fragment&quot; --&gt;
+
+ - Concepts and ideas that may be of interest and previous experience implementing ideas &lt;!-- .element: class=&quot;fragment&quot; --&gt;
 
 &lt;/small&gt;</content><author><name></name></author><summary type="html">## Shane Whelan Interview for Nuritas Bioinformatician.</summary></entry></feed>

@@ -12,19 +12,21 @@ BSc Genetics (UCC) 2010, MSc Immunology and Global Health (NUIM) 2012 |  HDip Da
 <small>
 
 - **_BSc Genetics 2010_**
- - Genomics, Bioinformatics, Statistics, Molecular biology. 
+ - Genomics, Bioinformatics, Statistics, Molecular biology, Microbiology, Immunology and many other modules relating to Genetics.
  - Final year project in bioinformatics (investigating bacterial pseudogenes in failed horizontal gene transfer events)
 
 </small>
 
 --
 
-<img src="https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/features-listing-images/olg_tv_whatdoyouknow_genetics/2144577-1-eng-US/olg_tv_whatdoyouknow_genetics.jpg" alt="drawing" width="250px"/>
+<img src="https://www.sanitarc.si/wp-content/uploads/2016/12/infectious.jpg" alt="drawing" width="450px"/> <img src="https://plus.maths.org/content/sites/plus.maths.org/files/news/2013/ripples/geographic_web.jpg
+" width="400px"/> 
+
 
 <small>
 
 - **_MSc Immunology and Global Health 2012_**
- - Epidemiology and disease modelling, molecular immunology, proteomics/bioinformatics.
+ - Epidemiology and disease modelling, molecular immunology, proteomics/bioinformatics, anthropology and the spread of disease.
  - Master thesis. Preperation of a genomic library of a virulent e-coli strain known to be associated with Crohn's disease in humans. 
 
 </small>
@@ -57,50 +59,56 @@ The above graph represents a time series of sentiment over time for the world cu
 
 ##### Experience working in data science
 
-<img src="https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg" alt="drawing" width="300px"/>
+<img src="https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg" alt="drawing" width="400px"/>
 
 <small>
 
-- I joined Xanadu consultancy in 2014 as a Data Scientist.
-- Initally worked in the "Data Analytics" team (2 years).
-- Then worked in "Data Products" team (>9 months).
+- I joined Xanadu consultancy in 2014 as a Junior Data Scientist initially.
+- First worked in the "Data Analytics" team (2 years).
+- Then promoted and worked in the "Data Products" team (~9 months).
 
 </small>
-
 
 --
 
 <img src="https://calvinayre.com/wp-content/uploads/2015/10/worlds-first-personalised-sports-betting-apple-watch-app-is-released.jpg" alt="drawing" width="300px"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK57cmXfHffCHjuq3N6YBdzzcOMxGbH5UnWBjgaQBIxrBiRpVG" alt="drawing" width="300px"/> 
 
-
-##### Example of some projects I worked on at Xanadu
-
+##### Data Analytics Team at Xanadu (~2 years)
 <small>
 
-##### Data Analytics Team
 - Haproxy log files <!-- .element: class="fragment" -->
- - setup processes in MongoDB, later Google Bigquery <!-- .element: class="fragment" -->
- - R package for data analytics team <!-- .element: class="fragment" -->
- - Personalization (twitter, commissions) <!-- .element: class="fragment" -->
- - Migration <!-- .element: class="fragment" -->
- - Many other data projects, including fraud detection, LTV, Churn etc. <!-- .element: class="fragment" -->
- - Prices analytics (NFTN tool). <!-- .element: class="fragment" -->
+ - Setup processes in MongoDB, later Google Bigquery. Using granular data (Sessions) for determining how users were interactin on the website. The aim was to help marketing understand uptake of promotions (example use of the Apple watch app among many other questions). <!-- .element: class="fragment" -->
+- R package for data analytics team. <!-- .element: class="fragment" -->
+- Personalization (e.g. twitter, personal news feed ) <!-- .element: class="fragment" -->
+- Migration of BI reports from MySQL to Cassandra and developing Spark processes. <!-- .element: class="fragment" -->
+- Many other data projects, including fraud detection alerts (Linking users report), LTV, Churn, Twitter prototypes <!-- .element: class="fragment" -->
+- Prices analytics (NFTN tool) (Example below) <!-- .element: class="fragment" -->
 
 </small>
 
 --
 
-<img src="https://www.freebets.org.uk/img/185" alt="drawing" width="400px"/>
+NFTN tool (News from the Numbers application)
 
-##### Example of some projects I worked on at Xanadu
+<img src="/public/img/article_with_graph.png" alt="drawing" width="500px"/>
 
 <small>
+https://wheeldogg.github.io/programming/2018/07/23/data-visualization-of-betting-markets/
+</small>
 
-##### Data Products Team (~9 months)
-- Bonus engine
- - The above image is for a 50 <!-- .element: class="fragment" -->
- - sdsdsds
- - Prices analytics (NFTN tool V2).
+--
+
+<img src="https://www.freebets.org.uk/img/185" alt="drawing" width="450px"/>
+
+##### Data Products Team at Xanadu (~9 months)
+<small>
+
+- Bonus platform engine. <!-- .element: class="fragment" -->
+ - Scrum team (two data scientists, Java engineer and product owner) <!-- .element: class="fragment" -->
+ - Gamification and personalization based on criteria and customer interactions <!-- .element: class="fragment" -->
+ - I specifically worked on "DBStreams". This involved converting MySQL and Cassandra queries in fucntions that could be called in Python to retreive a "stream" of historical events stored in the database <!-- .element: class="fragment" -->
+ - Automation of Knime Workflows created by marketing data insights analyst. Converting manual knime analytics workflows to automated solutions (example is in image above). This meant that my process would send information of customers and the amount of cash to receive in their accounts directly to the endpoint on the betting API. <!-- .element: class="fragment" -->
+ - Python analytics package for easier access to repeatable queries that were unit tested. <!-- .element: class="fragment" -->
 
 </small>
 
@@ -113,27 +121,35 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96XrDid3bAXDfXIfrEdAXwx0z
 
 <small>
 
-- Business analytics on radiology data.
-
- - The above image is for a 50 (% fragment %}
-
- - sdsdsds
-
- - Prices analytics (NFTN tool V2). 
+- Helped implement and build the data analytics infrastructure in the company <!-- .element: class="fragment" -->
+- Automated data extraction and reports and delivery via Tableau, Rshiny and Excel workbooks. <!-- .element: class="fragment" -->
+- Collected via Google sheets API from all areas of the business <!-- .element: class="fragment" -->
+- Built a HR database of all employees (clinicians and administration). <!-- .element: class="fragment" -->
+ - Importance in terms of FTE and productivity analyis. <!-- .element: class="fragment" -->
+ - Remuneration. <!-- .element: class="fragment" -->
+- Cost pricing model <!-- .element: class="fragment" -->
+- Operations pack. <!-- .element: class="fragment" -->
+ - A lot of work for this was costing the company as was being outsourced, then we started using R to run TSQL procedures and build our own dashboards in Tableau.
+- Voice of the patient. Text messages to customers. <!-- .element: class="fragment" -->
+- Helped train BI analyst's how to use some of the data analytics Jupyter notebooks and R. <!-- .element: class="fragment" -->
+- Prototyped a radiologist productivity app in Rshiny. <!-- .element: class="fragment" -->
+- Documentation ! <!-- .element: class="fragment" -->
 
 </small>
 
 --
 
-##### 1. Career history and skills relevant for Nuritas
+##### 1. Career history and skills relevant to Nuritas
+
+<img src="http://mkweb.bcgsc.ca/images/masthead/circos-genome-biology-mirna.png" width="580px"/> 
 
 <small>
 
-How I feel some of the projects are relevant to Nuritas ! <!-- .element: class="fragment" -->
+Background in biological sciences (mostly college) and data science (commerical environements). <!-- .element: class="fragment" -->
 
-I feel I have a strong background in bioligcal sciences and informatics. <!-- .element: class="fragment" -->
+I've worked on a number of varying data sets and I'm hopeful that the next domain will be again Biology which was my passion in getting into sciecen initially.  <!-- .element: class="fragment" -->
 
 In the next section when reviewing the position description I'll describe in more detail the tools used. <!-- .element: class="fragment" -->
 
-</small>
 
+</small>
