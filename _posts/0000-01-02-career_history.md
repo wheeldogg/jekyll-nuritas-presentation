@@ -78,7 +78,7 @@ The above graph represents a time series of sentiment over time for the world cu
 
 Example projects
 
-- Haproxy log file analytics {% fragment %}
+- Haproxy log file analytics: {% fragment %}
  - Setup processes in MongoDB, later Google Bigquery. Using granular data (website sessions) for determining how users interact with the platform (matchbook.com). 
  - An example purpose was to help the marketing team understand uptake of promotions (Customers using the Apple watch app for example).
 - Contribute to the development of an R package for internal data analytics. {% fragment %}
@@ -107,14 +107,14 @@ https://wheeldogg.github.io/programming/2018/07/23/data-visualization-of-betting
 <small>
 
 
-- Bonus platform engine. {% fragment %}
+- Bonus platform engine: {% fragment %}
  - Scrum team (two data scientists, Java engineer and product owner)
  - Gamification and personalization based on criteria and customer interactions 
  - Specifically worked on "DBStreams". This involved converting MySQL and Cassandra queries into python functions that could be run to retreive a "stream" of historical user interaction events stored in the database (combination of MySQL and Cassandra) {% fragment %}
-- Automation of Knime Workflows. {% fragment %}
+- Automation of Knime Workflows: {% fragment %}
   - Automating manual knime analytics workflows to credit customers if they achieved the correct criteria (example image above).
   - Python running "KNIME" logic, engaging with the API endpoint to credit accounts automatically.
-- Developing a Python analytics package for easier access to re-usable and tested queries {% fragment %}
+- Developing a Python analytics package for easier access to re-usable and tested queries.  {% fragment %}
 
 </small>
 
@@ -128,13 +128,13 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96XrDid3bAXDfXIfrEdAXwx0z
 
 - Implement and help build the data analytics expertise and reporting in the company. {% fragment %}
 - Automated data extraction, reporting and delivery via Tableau, Rshiny and Excel workbooks. {% fragment %}
-- Collected data via Google sheets API from all areas of the business . {% fragment %}
-- Built a HR database of all employees (clinicians and administration). {% fragment %}
+- Collected data via Google sheets API from all areas of the business to generate insights. {% fragment %}
+- Built a HR database of all employees (clinicians and administration): {% fragment %}
  - Importance in terms of FTE and productivity analyis.
  - Remuneration.
-- Cost pricing model (extraction in R, model in Excel) {% fragment %}
+- Cost pricing model (extraction in R, model in Excel). {% fragment %}
 - "Ops pack" and "Finance pack" in Tableau. {% fragment %}
- - A lot of work for this was costing the company as was being outsourced. I brought R knowledge to the company to run TSQL procedures and build our own reporting in house.
+ - A lot of reporting work  was being outsourced to affiliates. I brought R knowledge to the company to run TSQL procedures and build our own reporting in house.
 - Voice of the patient. Text messages to customers. {% fragment %}
 - Helped people in the company (specifically in IT and operations) interested in data analytics and BI (ie. Jupyter notebooks and R). {% fragment %}
 - Prototyped a radiologist productivity app in Rshiny. {% fragment %}

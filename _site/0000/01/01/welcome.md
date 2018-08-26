@@ -1,5 +1,5 @@
 ## Shane Whelan
-Interview for Nuritas Bioinformatician.
+Interview for Nuritas Bioinformatician role 27-08-2018
 
 <!-- ![test](/public/img/carragh_lake.jpg) -->
 
@@ -9,7 +9,7 @@ Interview for Nuritas Bioinformatician.
 
 ## Topics.
 
-#### Three main sections to discuss
+#### Three main sections
 
 <small>
 
@@ -19,7 +19,7 @@ Interview for Nuritas Bioinformatician.
  - How I believe my experience and background is a good fit. 
  - Data analytics tools and key competencies. 
 - 3.Ideas: <!-- .element: class="fragment" -->
- - Ideas that may be of interest to the team and examples of incorporating new technologies and processes in previous roles
+ - Ideas that may be of interest to the team and examples of incorporating new technologies and processes in previous roles.
 
 </small>
 

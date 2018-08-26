@@ -17,8 +17,7 @@ Role responsibilities and my experience.
 - Large volumes of biological data: {% fragment %}
  - Cassandra, Spark, AWS, Google bigquery.
  - SQL (structured) and NoSQL (unstructured) databases.
-- Data extraction: {% fragment %}
- - SQL and NoSQL experience.
+- Data extraction and automation. {% fragment %}
 - Ensuring high quality data: {% fragment %}
  - Test driven development in previous projects. This involved adding testing suites to a python package we were developing for our data queries from multiple sources at Xanadu.
 - Help train colleagues across the business: {% fragment %}
@@ -52,7 +51,7 @@ Technical skills and examples.
 
 <small>
 
-Biological sciences background with a good domain understanding.
+Biological sciences background.
 
 Commercial experience in creating high quality and performant analytics programs.
 
