@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-20T23:25:13+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Conclusion</title><link href="http://localhost:4000/0000/01/05/conclusion.md" rel="alternate" type="text/html" title="Conclusion" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/conclusion</id><content type="html" xml:base="http://localhost:4000/0000/01/05/conclusion.md"># Thank you !!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-20T23:48:14+01:00</updated><id>http://localhost:4000/</id><title type="html">Jekyll and Reveal.js</title><entry><title type="html">Conclusion</title><link href="http://localhost:4000/0000/01/05/conclusion.md" rel="alternate" type="text/html" title="Conclusion" /><published>0000-01-05T00:00:00+01:00</published><updated>0000-01-05T00:00:00+01:00</updated><id>http://localhost:4000/0000/01/05/conclusion</id><content type="html" xml:base="http://localhost:4000/0000/01/05/conclusion.md"># Thank you !!
 
 ```python
 import pprint
@@ -212,8 +212,11 @@ The above graph represents a time series of sentiment over time for the world cu
 ### 1. Career history. Work !
 
 ##### Experience working in data science
+&lt;!-- 
+&lt;img src=&quot;https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg&quot; alt=&quot;drawing&quot; width=&quot;400px&quot;/&gt; --&gt;
 
-&lt;img src=&quot;https://static1.squarespace.com/static/5a549bf64c0dbf97f730d260/t/5a709a8171c10bdde553e9dc/1517329029208/Data-Scientists+job.jpg&quot; alt=&quot;drawing&quot; width=&quot;400px&quot;/&gt;
+&lt;img src=&quot;/public/img/medatascientist.jpg&quot; alt=&quot;drawing&quot; width=&quot;400px&quot;/&gt;
+
 &lt;small&gt;
 
 - I joined Xanadu consultancy (e-commerce company) in 2014 as a Data Scientist.
