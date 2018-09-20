@@ -84,7 +84,8 @@ Example projects
 - Contribute to the development of an R package for internal data analytics. <!-- .element: class="fragment" -->
 - Personalization project (e.g. twitter, betting history) <!-- .element: class="fragment" -->
 - Migration of BI reports from MySQL to Cassandra and developing Spark processes. <!-- .element: class="fragment" -->
-- Many other data projects in our team, including fraud detection alerts (Linked users report), LTV, Churn and recommendation engines. <!-- .element: class="fragment" -->
+- I built fraud detection alerts (Linked users report) by using raw weblog data. <!-- .element: class="fragment" -->
+- Customer realtionship management tracking via Salesforce APIS in python <!-- .element: class="fragment" -->
 - I developed a "Prices" analytics app (NFTN tool) (Example below) <!-- .element: class="fragment" -->
 
 </small>
@@ -94,10 +95,10 @@ Example projects
 NFTN tool (News from the Numbers application)
 
 <img src="/public/img/article_with_graph.png" alt="drawing" width="500px"/>
-
+<!-- 
 <small>
 https://wheeldogg.github.io/programming/2018/07/23/data-visualization-of-betting-markets/
-</small>
+</small> -->
 
 --
 

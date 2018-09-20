@@ -1,5 +1,5 @@
 ## Shane Whelan
-Interview for Nuritas Bioinformatician role 27-08-2018
+Interview for Nuritas Bioinformatician role 21-09-2018
 
 <!-- ![test](/public/img/carragh_lake.jpg) -->
 
@@ -22,4 +22,3 @@ Interview for Nuritas Bioinformatician role 27-08-2018
  - Ideas that may be of interest to the team and examples of incorporating new technologies and processes in previous roles.
 
 </small>
-
