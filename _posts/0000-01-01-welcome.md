@@ -3,13 +3,11 @@ Interview for Nuritas Bioinformatician role 21-09-2018
 
 <!-- ![test](/public/img/carragh_lake.jpg) -->
 
-<img src="https://azcdn.discovery.pgsitecore.com/en-us/-/media/Olay_PathFinder/Images/Callouts/Brand_Experience_promos/Desktop/DT_BE_Landing_Aminopeptides_HeaderImage.jpg?h=310&la=en-US&w=500&v=1-201802281215" alt="drawing" width="420px"/> <img src="/public/img/Nuritas.png" alt="drawing" width="258px"/>
+<img src="https://azcdn.discovery.pgsitecore.com/en-us/-/media/Olay_PathFinder/Images/Callouts/Brand_Experience_promos/Desktop/DT_BE_Landing_Aminopeptides_HeaderImage.jpg?h=310&la=en-US&w=500&v=1-201802281215" alt="drawing" width="520px"/> <img src="/public/img/Nuritas.png" alt="drawing" width="358px"/>
 
 ---
 
-## Topics.
-
-#### Three main sections
+#### Outline for my presentation today.
 
 <small>
 
